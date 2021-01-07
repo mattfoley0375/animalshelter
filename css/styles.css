@@ -1,4 +1,4 @@
-img {
+.column img {
   max-width: 50%;
   max-height: 50%;
 }
@@ -7,3 +7,23 @@ img {
   width: 300px;
   float: left;
 }
+
+h3 {
+  color: rgb(23, 170, 196);
+}
+
+.column p {
+  color: green;
+}
+
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+body {
+  text-align: center;
+}
+
