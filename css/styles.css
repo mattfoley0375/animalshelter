@@ -9,11 +9,12 @@
 }
 
 h3 {
-  color: rgb(23, 170, 196);
+  color: rgba(196, 101, 23, 0.781);
 }
 
 .column p {
-  color: green;
+  color: rgba(196, 101, 23, 0.781);
+  
 }
 
 .centered-image {
@@ -25,5 +26,11 @@ h3 {
 
 body {
   text-align: center;
+
 }
 
+body {
+  background-color: rgb(114, 245, 250);
+  font-family: sans-serif;
+  text-align: center;
+}
